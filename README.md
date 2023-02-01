@@ -4,7 +4,7 @@ Email Sender Service developed with SpringBoot, Gmail SMTP, Lombok, Maven and Ja
 <br/>
 
 >## Demonstration
-<img width="1200" src="https://i.postimg.cc/3RCk4vyF/email-sender.gif" >
+<img width="900" src="https://i.postimg.cc/XYbdJ4DW/email-sender.gif" >
 
 <br/>
 
