@@ -1,5 +1,5 @@
 >## About
-Email Sender Service developed with SpringBoot.
+Email Sender Service developed with SpringBoot, Gmail SMTP, Lombok, Maven and Java mail Sender.
 
 <br/>
 
